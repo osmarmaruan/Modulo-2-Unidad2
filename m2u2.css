@@ -1,0 +1,41 @@
+
+#contenedor{
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 800px;
+    height: 600px;
+    border: 2px solid black;
+    background-color: azure;
+    margin-left: 25%;
+    margin-top: 5%;
+ 
+
+}
+#rojo{
+    color: honeydew;
+  height: 200px;
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    background-color: red;
+}
+#azul{
+    color: honeydew;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+    height: 200px;
+    width: 200px;
+    background-color: royalblue;
+}
+#verde{
+    color: honeydew;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+    height: 200px;
+    width: 200px;
+    background-color: green;
+}
